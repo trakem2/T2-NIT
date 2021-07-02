@@ -1,2 +1,2 @@
-[![](https://travis-ci.org/trakem2/T2-NIT.svg?branch=master)](https://travis-ci.org/trakem2/T2-NIT)
+[![](https://github.com/trakem2/T2-NIT/actions/workflows/build-main.yml/badge.svg)](https://github.com/trakem2/T2-NIT/actions/workflows/build-main.yml)
 
